@@ -4,5 +4,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="VersionControlPractice/VersionControlPractice.vcxproj" />
+  <Project Path="VersionControlPractice/VersionControlPractice.vcxproj" Id="11e78693-559f-49d4-a79e-12246af30a5f" />
 </Solution>
